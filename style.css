@@ -1,0 +1,45 @@
+#title {
+    text-align: center;
+    background-color: aqua;
+}
+
+.table {
+    background-color: sandybrown;
+    width: 500px;
+    height: 300px;
+}
+
+.red-plate {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    border-style: solid;
+    padding: 10px;
+}
+
+.yellow-plate {
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-style: dashed;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.green-plate {
+    background-color: green;
+    width: 60px;
+    height: 60px;
+    margin: 20px 0 0 20px;
+    border-style: solid dashed;
+    border-color: red;
+    padding: 0 10px 0 10px;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
